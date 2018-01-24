@@ -12,8 +12,8 @@ build/*
 *.pbxuser
 *.xcworkspace
 xcuserdata
-emouty.github.io/
 .idea/
+emouty.github.io/
 *.psd
 *.rtf
 # svn & cvs
